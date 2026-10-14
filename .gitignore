@@ -1,0 +1,12 @@
+
+.venv/
+venv/
+.idea/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+ecommerce.db
+data/
